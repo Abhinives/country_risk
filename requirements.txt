@@ -1,0 +1,6 @@
+gpt-researcher
+pandas
+tavily-python
+python-dotenv
+langchain
+streamlit
